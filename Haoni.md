@@ -17,4 +17,5 @@ So, our first aim is to make a program to solve the *Haoni* puzzle. what's more,
 Something else:
 + Welcome!
 + The programming language is unlimited(p.s. Because I usually use Python, maybe `@lru_cache` can benefit a lot when applying recursion)
++ Don't be afarid to push your own code here.
 
