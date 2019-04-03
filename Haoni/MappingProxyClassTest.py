@@ -11,7 +11,9 @@ class Students:
         try:
             self.name = name
             self.info = None
+            #    inner attr
             self._info = None
+            #    outter attr
             self._none = True
         except Exception as e:
             self._none = False
